@@ -1,3 +1,4 @@
 Name: Manas Gupta
 Roll No. 17CO122
-Branch :C.S.
+Branch :C.S.E.
+Current GPA 8.00
